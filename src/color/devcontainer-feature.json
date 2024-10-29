@@ -1,9 +1,0 @@
-{
-    "name": "bun-alpine",
-    "id": "bun-alpine",
-    "version": "0.0.1",
-    "description": "A feature to install Bun, meant to be used in Alpine based containers",
-    "installsAfter": [
-        "ghcr.io/devcontainers/features/common-utils"
-    ]
-}
