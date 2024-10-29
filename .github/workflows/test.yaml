@@ -13,8 +13,7 @@ jobs:
     strategy:
       matrix:
         features:
-          - color
-          - hello
+          - bun-alpine
         baseImage:
           - mcr.microsoft.com/devcontainers/base:alpine
     steps:
